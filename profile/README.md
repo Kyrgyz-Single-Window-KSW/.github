@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/SW_LOGO_RGB_Artboard 4.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/SW_LOGO_RGB_Artboard 2.svg">
-  <img src="./assets/SW_LOGO_RGB_Artboard 2.svg" alt="Kyrgyz Single Window" width="200"/>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/SW_LOGO_RGB_Artboard 4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/SW_LOGO_RGB_Artboard 2.svg">
+  <img src="../assets/SW_LOGO_RGB_Artboard 2.svg" alt="Kyrgyz Single Window" width="200"/>
 </picture>
 
 # Kyrgyz Single Window (KSW)
@@ -126,9 +126,9 @@ We are growing our technology team and looking for talented professionals passio
 <sub>State Enterprise "Single Window Center for Foreign Trade" under the State Customs Service of the Cabinet of Ministers of the Kyrgyz Republic</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/SW_LOGO_RGB_Artboard 10.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/SW_LOGO_RGB_Artboard 6.svg">
-  <img src="./assets/SW_LOGO_RGB_Artboard 6.svg" alt="KSW" width="200"/>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/SW_LOGO_RGB_Artboard 10.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/SW_LOGO_RGB_Artboard 6.svg">
+  <img src="../assets/SW_LOGO_RGB_Artboard 6.svg" alt="KSW" width="200"/>
 </picture>
 
 </div>
